@@ -73,7 +73,7 @@ npx create-react-app todoapp
 
 cd todoapp
 
-Used css:https://materializecss.com/getting-started.htm 
+Used css:https://materializecss.com/getting-started.html
 
 
 npm start
